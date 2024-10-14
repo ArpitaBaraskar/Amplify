@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
-import Button1 from './components/Button1.jsx'
+//import Button1 from './components/Button1.jsx'
 import './App.css'
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <h1>Hello</h1>
-      <Button1 />
+      
     </>
   )
 }
